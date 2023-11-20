@@ -11,8 +11,8 @@ Simple C-shell.
 8. `quit` - terminate all active processes and close the command shell;
 9. `jobs` - display a list of all shell processes (both active and terminated).
 
-Run shell with the `batchfile` argument to get commands from it.
-Use `<`, `>` and `>>` symbols for I/O redirection.
+Run shell with the `batchfile` argument to get commands from it.<br/>
+Use `<`, `>` and `>>` symbols for I/O redirection.<br/>
 Run tasks in background using `&` symbol in the end of command.
 
 ## Getting started
